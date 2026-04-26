@@ -1,7 +1,3 @@
-# Hangman_Game
-
-CodeAlpha_Hangman_Game
-
 # Hangman Game (CodeAlpha Internship Task)
 
 ## Description
@@ -24,4 +20,5 @@ A simple text-based Hangman game written in C. The player guesses a word one let
 2. Run: ./hangman
 
 ## Author
-Your Name  Kota Vijaya Bhargavi
+Your Name :
+Kota Vijaya Bhargavi
